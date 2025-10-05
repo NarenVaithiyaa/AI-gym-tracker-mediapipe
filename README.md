@@ -12,7 +12,7 @@ A real-time human pose estimation application using MediaPipe and OpenCV. This p
 
 ## Demo
 
-The application captures video from your webcam and overlays detected pose landmarks and connections in real-time. Press 'q' to quit the application.
+The application captures video from your webcam and overlays detected pose landmarks and connections in real-time. Press 'Ctrl + C' to quit the application.
 
 ## Requirements
 
