@@ -56,7 +56,7 @@ python pose_est.py
 ```
 
 ### Controls
-- **'q'**: Quit the application
+- **Ctrl + C'**: Quit the application
 - The application will automatically detect poses when a person is visible in the camera frame
 
 ## Dependencies
