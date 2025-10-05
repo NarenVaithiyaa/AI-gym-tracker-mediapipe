@@ -25,7 +25,6 @@ The application captures video from your webcam and overlays detected pose landm
 1. Clone this repository:
 ```bash
 git clone https://github.com/NarenVaithiyaa/AI-gym-tracker-mediapipe.git
-cd adl
 ```
 
 2. Create a virtual environment (recommended):
