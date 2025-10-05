@@ -24,7 +24,7 @@ The application captures video from your webcam and overlays detected pose landm
 
 1. Clone this repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/NarenVaithiyaa/AI-gym-tracker-mediapipe.git
 cd adl
 ```
 
@@ -125,7 +125,7 @@ mp_drawing.DrawingSpec(color=(245,66,230), thickness=2, circle_radius=2)  # Conn
 
 ## Contributing
 
-1. Fork the repository
+1. Fork the repository 
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
@@ -149,10 +149,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Exercise counting functionality
 - [ ] Video file input support
 - [ ] REST API interface
-
-## Contact
-
-For questions or suggestions, please open an issue or contact [your-email@example.com].
 
 ---
 
